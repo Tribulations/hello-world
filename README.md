@@ -1,6 +1,3 @@
 # hello-world
-First repository to just learn how this works.
 
-
-
-Hello testing to edit this file in another branch then master.
+# 1.Testade att sudda allt och testa lite nytt för att sedan göra en nya branch till denna branch innan merge to master
